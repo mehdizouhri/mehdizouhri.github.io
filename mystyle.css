@@ -1,0 +1,133 @@
+.div7{
+
+
+	color:yellow;
+	font-size: 90px;}
+	#para1 {
+	font-size:50px;
+	background-color: tomato;
+	text-align: center;
+	margin: 0 auto;
+	padding:30px;
+}
+#div{
+
+font-size: 40px;
+background-color: blue;
+border: 19px solid yellow;
+text-align: center;
+margin: 0 auto;
+	padding:30px;
+
+}
+
+.div2{
+
+text-align: center;
+background-color: red;
+font-size: 50px;
+border: 30px solid blue;
+}
+.div3{
+
+color: black;
+}
+*{
+
+font-size: 100px;
+
+
+}
+.div4{
+	border: 2px solid yellow;
+
+	 height: 200px;
+  width: 200PX;
+  background-color: powderblue;
+}
+.div5{
+	
+	margin-left:202px;
+	border: 2px solid red;
+	
+	 height: 200px;
+  width: 200PX;
+  background-color: red;
+}
+
+
+.div5a{
+	
+	margin-left:206px;
+	border: 2px solid red;
+	
+	 height: 200px;
+  width: 200PX;
+  background-image: url("https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  
+}
+ 
+
+
+.opacity{
+
+background-color:green;
+opacity: 0.9;
+
+
+}
+body{
+
+background-image: url("https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-repeat: no-repeat;
+  background-position: right-top;
+
+}
+.bordermixed{
+
+
+border-style: solid dashed groove dotted;
+border-color:green;
+
+
+}
+
+.bordercolor{
+
+
+border-style: solid dashed groove dotted;
+border-color:green blue tomato yellow;
+
+
+}
+
+div{
+	margin: auto;
+}
+h1{
+
+margin-right: 200PX;
+margin-left:450PX;
+margin-top:200PX;
+
+
+}
+.padding{
+padding: 100px 100PX 100PX 100PX;
+border-style: groove dotted dashed solid;
+background-color: green;
+}
+.divpadding {
+  padding-top: 220px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 220px;
+}
+.divbox{
+background-color: tomato;
+border: 19PX double green;
+padding:90px;
+margin: 90px;
+outline-color: green;
+
+}

@@ -1,0 +1,246 @@
+.div1{
+background-color: red;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+}
+.div2{
+background-color: gray;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+}
+.div3{
+background-color: dodgerblue;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+}
+.div4{
+
+background-color: red;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+
+}
+.div5{
+	margin-left: 91px;
+
+background-color: gray;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+
+}
+.div6{
+background-color: dodgerblue;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+margin-left: 182px;
+}
+.div7{
+background-color: red;
+border: 1px solid blue;
+width: 200px;
+height: 90px;
+}
+.div8{
+background-color: gray;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+}
+.div9{
+background-color: blue;
+border: 1px solid blue;
+height: 90px;
+width: 90px;
+margin-left: 110px;
+}
+.div10{
+background-color: dodgerblue;
+border: 1px solid blue;
+width: 415px;
+height: 90px;
+
+}
+.div11{
+background-color: gray;
+border: 1px solid blue;
+width: 415PX;
+height: 60px;
+
+}
+.div12{
+background-color: red;
+border: 1px solid blue;
+height: 100PX;
+width: 100PX;
+
+}
+.div13{
+background-color: gray;
+border: 1px solid blue;
+height:100PX;
+width:100PX;
+margin-left: 105PX;
+}
+.div14{
+background-color: green;
+border: 1px solid blue;
+height:100PX;
+width:100PX;
+margin-left:105PX;
+
+}
+.div15{
+background-color: blue;
+border: 1px solid blue;
+height:100PX;
+width:100PX;
+margin-left: 105PX;
+}
+.div16{
+background-color: blue;
+border: 1px solid blue;
+height:100PX;
+width:205PX;
+
+}
+.div17{
+background-color: blue;
+border: 1px solid blue;
+height:100PX;
+width:205PX;
+margin-left: 210PX;
+}
+.div18{
+background-color: violet;
+border: 1px solid blue;
+width: 415px;
+height: 80px;
+
+}
+.div19{
+
+background-image: url(img/photo.jpg);
+
+background-repeat: no-repeat;
+border:1px solid blue;
+height: 600PX;
+width:500PX;
+
+}
+.div20{
+
+border:1px solid blue;
+margin-left: 501px;
+height: 600PX;
+width:500px;
+}
+.div21{
+
+padding: 
+border:  ;
+}
+.div22{
+	border: 1px solid blue;
+	background-color: dodgerblue;
+	height: 80px;
+	width: 500px;
+
+}
+.div23{
+	border: 1px solid blue;
+	background-color: gray;
+	height: 80px;
+	width: 500px;
+
+}
+.div24{
+	border: 1px solid blue;
+	background-color: skyblue;
+	height: 80px;
+	width: 248px;
+
+}
+.div25{
+	border: 1px solid blue;
+	background-color: pink;
+	height: 80px;
+	width: 248px;
+    margin-left: 252px; 
+}
+.div26{
+	border: 1px solid blue;
+	background-color: dodgerblue;
+	height: 80px;
+	width: 500px;
+
+}
+.div27{
+	border: 1px solid blue;
+	background-color: dodgerblue;
+	height: 80px;
+	width: 500px;
+
+}
+.div28{
+	border: 1px solid blue;
+	background-color: violet;
+	height: 80px;
+	width: 500px;
+
+}
+.div22B{
+	border: 1px solid blue;
+	background-color: dodgerblue;
+	height: 68.5px;
+	width: 500px;
+
+}
+.div23B{
+	border: 1px solid blue;
+	background-color: gray;
+	height: 68.5px;
+	width: 500px;
+
+}
+.div24B{
+	border: 1px solid blue;
+	background-color: skyblue;
+	height: 68.5px;
+	width: 500px;
+
+}
+.div25B{
+	border: 1px solid blue;
+	background-color: pink;
+	height: 68.5px;
+	width: 500px;
+     
+}
+.div26B{
+	border: 1px solid blue;
+	background-color: dodgerblue;
+	height: 68.5Px;
+	width: 500px;
+
+}
+.div27B{
+	border: 1px solid blue;
+	background-color: dodgerblue;
+	height: 68.5px;
+	width: 500px;
+
+}
+.div28B{
+	border: 1px solid blue;
+	background-color: violet;
+	height: 68.5px;
+	width: 500px;
+
+}
+
